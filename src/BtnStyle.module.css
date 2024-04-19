@@ -1,0 +1,13 @@
+.BtnContainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.Btn{
+  width: 55px;
+  height: 55px;
+  margin: 5px;
+  border-radius: 3px;
+  border: 2px solid black;
+}
